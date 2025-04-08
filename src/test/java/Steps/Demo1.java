@@ -10,18 +10,21 @@ public class Demo1 {
 	public void regression_scenario_step1() {
 
 		System.out.println("regression Scenario step1");
+		System.out.println("For the Github Practice Purpose i entered this syso statement");
 	}
 
 	@When("regression Scenario step2")
 	public void regression_scenario_step2() {
 
 		System.out.println("regression Scenario step2");
+		System.out.println("For the Github Practice Purpose i entered this syso statement");
 	}
 
 	@Then("regression Scenario step3")
 	public void regression_scenario_step3() {
 
 		System.out.println("regression Scenario step3");
+		System.out.println("For the Github Practice Purpose i entered this syso statement");
 	}
 
 }
