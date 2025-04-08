@@ -12,6 +12,7 @@ public class Demo1 {
 		System.out.println("regression Scenario step1");
 		System.out.println("For the Github Practice Purpose i entered this syso statement");
 		System.out.println("For the Github Practice Purpose i entered this syso statement2");
+		System.out.println("For the Github Practice Purpose i entered this syso statement3");
 	}
 
 	@When("regression Scenario step2")
@@ -20,6 +21,7 @@ public class Demo1 {
 		System.out.println("regression Scenario step2");
 		System.out.println("For the Github Practice Purpose i entered this syso statement");
 		System.out.println("For the Github Practice Purpose i entered this syso statement2");
+		System.out.println("For the Github Practice Purpose i entered this syso statement3");
 	}
 
 	@Then("regression Scenario step3")
@@ -28,6 +30,7 @@ public class Demo1 {
 		System.out.println("regression Scenario step3");
 		System.out.println("For the Github Practice Purpose i entered this syso statement");
 		System.out.println("For the Github Practice Purpose i entered this syso statement2");
+		System.out.println("For the Github Practice Purpose i entered this syso statement3");
 	}
 
 }
